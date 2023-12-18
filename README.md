@@ -1,0 +1,14 @@
+# gvltexx-user 5.1.1 LMY47X T677XXU2APL3 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: gvlte
+- flavor: gvltexx-user
+- release: 5.1.1
+- id: LMY47X
+- incremental: T677XXU2APL3
+- tags: release-keys
+- fingerprint: samsung/gvltexx/gvlte:5.1.1/LMY47X/T677XXU2APL3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gvltexx-user-5.1.1-LMY47X-T677XXU2APL3-release-keys
+- repo: samsung_gvlte_dump
